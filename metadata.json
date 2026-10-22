@@ -1,0 +1,6 @@
+{
+  "name": "Sadeel Blinds KSA - Luxury Roller Blinds Saudi Arabia",
+  "description": "متجر ستائر الرول الفاخرة بالمملكة العربية السعودية - تفصيل ستائر رول بالسلسلة ومحرك ذكي، عازلة للحرارة والضوء مع قياس وتركيب ودفع آمن عبر مدى وApple Pay وتمارا.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
